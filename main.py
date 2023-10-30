@@ -1,0 +1,11 @@
+# shawn
+#git-test
+
+def print_main(a):
+    print('hi,'+str(a))
+
+if __name__ == '__main__':
+    x = 'python'
+    print_main(x)
+
+
