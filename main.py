@@ -7,5 +7,5 @@ def print_main(a):
 if __name__ == '__main__':
     x = 'python'
     print_main(x)
-
+print('verion 1.0')
 
